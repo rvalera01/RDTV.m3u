@@ -1,2 +1,2 @@
 # RDTV.m3u
-tvlatina
+RD TVONLINE
