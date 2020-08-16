@@ -26,7 +26,7 @@ https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w159094
 http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
 
 #EXTINF:0 tvg-chno="37" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="RD",CDN37  
-https://usb.bozztv.com/ssh101/cdn37live/cdn37live/playlist.m3u8
+https://usb.boz.com/ssh101/cdn37live/cdn37live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://2.bp.blogspot.com/-6BYEEDw_wAw/WtJ1xA83FcI/AAAAAAAAeP0/aD9jbEI6PFEM1Jyhhe432iuvO5DCP-bEgCLcBGAs/s200/CDN%2BSportsMax.png" group-title="RD",CDN Sports MAX 
 http://67.205.141.212:25461/test/test1234/9
@@ -125,11 +125,9 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:0 tvg-chno="3" tvg-logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg" group-title="RD",Misión ELTV 
 https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
 
-#EXTINF:0 tvg-chno="43" tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="RD",Telenovisa 43
-http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 
-#EXTINF:0 tvg-chno="44" tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="RD",TRA 
-https://ss1.domint.net:3310/tra_str/canal45/chunklist_w718216467.m3u8
+#EXTINF:0 tvg-chno="44" tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="RD",TRA 45
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w640686940.m3u8
 
 #EXTINF:0 tvg-chno="45" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="RD",Teleunion 
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
@@ -144,12 +142,12 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w757952389.m3u8
 
 #EXTINF:0 tvg-chno="49" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png" group-title="RD",Comunión TV 
-http://50.30.37.36:1935/live/stream/chunklist_w769879495.m3u8
+http://50.30.37.36:1935/live/stream/chunklist_w623700829.m3u8
 
 #EXTINF:0 tvg-chno="50" tvg-logo="http://www.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="RD",Telenord 10 
 http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8
 
-#EXTINF:0 tvg-chno="51" tvg-logo="http://2.bp.blogspot.com/-Q0m4KDQEH5U/W-Hn_Kd2GlI/AAAAAAAA0ts/u8nxCzAM-SoxGG54P5au_yT-aRMH-sObACK4BGAYYCw/s1600/Sin%2Bti%25CC%2581tulo-1.png" group-title="RD",Xtremo Channel 
+#EXTINF:0 tvg-chno="51" tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" group-title="RD",Xtremo Channel 
 http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w1106627689.m3u8
 
 #EXTINF:0 tvg-chno="52" tvg-logo="https://cableondaoriental.com/images/logo_tv_new_md.png" group-title="RD",Onda TV 10 
@@ -157,25 +155,22 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 
 
 #EXTINF:0 tvg-chno="54" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="RD",ORBIT TV 
-
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w641102222.m3u8
 #EXTINF:0 tvg-chno="55" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="RD",SuperTV55
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="RD",LVM (domreptv.com)
-https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1124872790.m3u8
-
-#EXTINF:0 tvg-chno="57" tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57 (domreptv.com)
-http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-chno="56" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="RD",LVM
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w674654165.m3u8
+#EXTINF:0 tvg-chno="57" tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="RD",Telecontacto 57 
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/index.m3u8
 #EXTINF:0 tvg-chno="58" tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="RD",Zol 106 
 https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8
 
 #EXTINF:0 tvg-chno="59" tvg-logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JGHlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/s1600/Punta-Cana-TV-Logo.png" group-title="RD",Punta Cana TV 
-https://59f1cbe63db89.streamlock.net:1443/domart/_definst_/domart/chunklist_w571583605.m3u8
+https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://3.bp.blogspot.com/--cx_dZWbpI8/XaTeSOMDyFI/AAAAAAAAoYA/X_MkqK1vsPMdCs3t1qoyu_kf85kN6rYigCLcBGAsYHQ/s1600/tvo%2Bdominicana.png" group-title="RD",tvo 
-https://rctvhdstream.com:8081/tvoromana/index.m3u8
-
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://3.bp.blogspot.com/--cx_dZWbpI8/XaTeSOMDyFI/AAAAAAAAoYA/X_MkqK1vsPMdCs3t1qoyu_kf85kN6rYigCLcBGAsYHQ/s1600/tvo%2Bdominicana.png" group-title="RD",tvo La Romana 
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-chno="61" tvg-logo="https://1.bp.blogspot.com/-33hgi3XzfLk/XaTZchnPFzI/AAAAAAAAoXM/_4Dev7Cb_II0S6JPEDyqOShzfmInR42vACLcBGAsYHQ/s200/tvplata.png" group-title="RD",TV Plata 
 https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8
 
@@ -296,3 +291,104 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="ESPAÑA" tvg-name="24h",24h
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2KX2RM.png" group-title="COLOMBIA",Amordiscos TV
+https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51TCi1U.png" group-title="COLOMBIA",Cablenoticias
+http://181.198.153.175:5006/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRZN7Tn.png" group-title="COLOMBIA",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DqwBlp.png" group-title="COLOMBIA",Canal 13
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTxZUo6.png" group-title="COLOMBIA",Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3c5TIR.png" group-title="COLOMBIA",Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zb7kpqt.png" group-title="COLOMBIA",Canal Doce
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
+http://181.198.153.175:5005/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqwMbTz.png" group-title="COLOMBIA",CityTV
+http://181.198.153.175:5007/play/a09s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3oXZHo.png" group-title="COLOMBIA",Cosmovision
+https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/osBE0Et.png" group-title="COLOMBIA",CTV Barranquilla
+http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/stQQgsQ.png" group-title="COLOMBIA",La Super TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lL3TbW6.png" group-title="COLOMBIA",Multicanal TV
+https://bozztv.com/36bay2/gin/giniko_multicanaltv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="COLOMBIA",Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EendU9p.png" group-title="COLOMBIA",Ntv Canal
+https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NCqfXuX.png" group-title="COLOMBIA",Ranchenato TV
+http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-1)
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-2)
+https://rcnhd.cdn.net.co/live02/rcnhd2.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVBz2v6.png" group-title="COLOMBIA",Red Mas
+http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOc43O7.png" group-title="COLOMBIA",Señal Colombia
+http://181.198.153.175:5006/play/a05j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="COLOMBIA",Suram TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="COLOMBIA",Tele Medellin
+http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAiQxyb.png" group-title="COLOMBIA",Teleantioquia
+http://api.new.livestream.com/accounts/9427524/events/8459038/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vur40zl.png" group-title="COLOMBIA",Telecafe
+http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2Xb44n.png" group-title="COLOMBIA",Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/93KWYKj.png" group-title="COLOMBIA",Teleenvigado
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PAVd3LS.png" group-title="COLOMBIA",Teleislas (Opt-1)
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAVd3LS.png" group-title="COLOMBIA",Teleislas (Opt-2)
+http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8UqwhM.png" group-title="COLOMBIA",Telepacifico
+https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BSLKD8e.png" group-title="COLOMBIA",TV Regional del Oriente
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="COLOMBIA",UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="COLOMBIA",UAO Play +
+https://live-edge-sxb-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
