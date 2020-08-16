@@ -431,10 +431,11 @@ http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hXbiTT5.png" group-title="COSTA RICA",Telered
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
+http://k4.usastreams.com/ARBtv/teleplus/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fp9ReNL.png" group-title="COSTA RICA",Telesur
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://lh3.googleusercontent.com/-DiXsxeG-J7o/Xtvh7WdzH1I/AAAAAAAA1gs/DKW25Vh-p8AZ34jMpCCli_xGVIbdoCHyACK8BGAsYHg/s0/2020-06-06.png"group-title="COSTA RICA",Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvdNakJ.png" group-title="COSTA RICA",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -445,3 +446,5 @@ http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1063134685.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jBlueAT.png" group-title="COSTA RICA",TV Sur 14
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6LjHgjX.png" group-title="NICARAGUA",Canal 12
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w978811706.m3u8
