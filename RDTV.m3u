@@ -440,7 +440,7 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mmj1BUK.png" group-title="COSTA RICA",TicaVision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1063134685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jBlueAT.png" group-title="COSTA RICA",TV Sur 14
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
