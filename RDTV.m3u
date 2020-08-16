@@ -511,25 +511,67 @@ http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV
 http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV Int.
-http://api.new.livestream.com/accounts/27228685/events/8710503/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-1)
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-2)
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/RTU_(canal_de_televisi%C3%B3n)#/media/Archivo:Logo_rtu.jpg" group-title="ECUADOR",Canal RTU 
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w530123987_b2108000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-3)
-http://181.198.153.175:5001/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/if6yIsv.png" group-title="ECUADOR",Canal Uno
-http://181.198.153.175:5001/play/a04i/index.m3u8
+https://youvideostreaming.club/hls/tvec1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CKywGU.png" group-title="ECUADOR",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="BOLIVIA",ATB (Opt-1)
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="BOLIVIA",ATB (Opt-2)
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=658130495
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/74VoJa5.png" group-title="BOLIVIA",Bolivia TV
+https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w836415796_b478000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/74VoJa5.png" group-title="BOLIVIA",Bolivia TV
+http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w268701291.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1R43ZH2.png" group-title="BOLIVIA",Bolivision
+http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o5JZ2qh.png" group-title="BOLIVIA",Cadena A
+http://www.channel.tevemi.com:1935/CadenaA/CadenaA/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="BOLIVIA",Catolica TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkPjLFJ.png" group-title="BOLIVIA",EBO TV
+http://v3.ciclano.io:1935/ebotv/ebotv/chunklist_w225573536.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2AMNLa6.png" group-title="BOLIVIA",Mega TV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1226312203.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wyAId2p.png" group-title="BOLIVIA",Palenque TV
+http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o4i8izz.png" group-title="BOLIVIA",Red PAT La Paz
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o4i8izz.png" group-title="BOLIVIA",Red PAT Santa Cruz
+http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWtxNYu.png" group-title="BOLIVIA",Red Uno
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ytPJLHE.png" group-title="BOLIVIA",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89906hn.png" group-title="BOLIVIA",Unitel
+http://api.new.livestream.com/accounts/8665913/events/4253600/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UOz8p3p.png" group-title="ECUADOR",CNT
 http://181.198.153.175:5001/play/a04q/index.m3u8
 
@@ -543,7 +585,7 @@ http://181.198.153.175:5001/play/a03r/index.m3u8
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avUtmDH.png" group-title="ECUADOR",TC TV
-http://181.198.153.175:5001/play/a03o/index.m3u8
+https://5d4837686f698.streamlock.net/tctelevision/tctelevision/chunklist_w1169183823.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
@@ -552,13 +594,12 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 http://api.new.livestream.com/accounts/280758/events/8705297/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2icSc6x.png" group-title="ECUADOR",TV Manabita
-http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+http://vivo.eurolatintv.tv/tvmanabita/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-ViW8yN7Lbhw/WQga_AXP1bI/AAAAAAAACbo/s4c8pm9trnQIMqPF4X0p1V_NF3YU1CkoACLcB/s640/TVC1.png" group-title="ECUADOR",TVC
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-1)
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG 
+https://ecuastream.net:1936/UCSGHQ/UCSGHQ/chunklist_w347751395.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-2)
-http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
