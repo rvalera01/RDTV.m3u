@@ -350,7 +350,7 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOc43O7.png" group-title="COLOMBIA",Señal Colombia
-https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-300/index.m3u8
+https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
@@ -448,3 +448,117 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LjHgjX.png" group-title="NICARAGUA",Canal 12
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w978811706.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oF4AUvt.png" group-title="PANAMA",Nex TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZpbyy5.png" group-title="PANAMA",Panavision
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w546712945.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsSLnJC.png" group-title="PANAMA",SerTV
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png" group-title="HONDURAS",Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Globo-Tv-HN.png" group-title="HONDURAS",GLOBO TV
+https://panel.dattalive.com/8122/8122/chunklist_w159481535.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png" group-title="HONDURAS",Canal 5 El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u2i5YHQ.png" group-title="HONDURAS",Canal 11
+http://181.189.225.36:9100/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9AJtKfZ.png" group-title="HONDURAS",Chocolate TV
+http://181.189.225.36:9100/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzGYOCp.png" group-title="HONDURAS",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pje1GWN.png" group-title="HONDURAS",CHTV
+http://181.189.225.36:9100/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://hch.tv/wp-content/uploads/2020/08/h.png" group-title="HONDURAS",HCH
+http://stream.innovandote.com:1935/hch/hch/chunklist_w885976163.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0nqWEge.png" group-title="HONDURAS",DTV
+http://181.189.225.36:9100/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vO563Zy.png" group-title="HONDURAS",Maya TV
+https://5d00db0e0fcd5.streamlock.net:443/7334/7334/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="HONDURAS",Q'hubo TV
+https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist_w735822650.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKPY0s8.png" group-title="HONDURAS",RTV
+http://181.189.225.36:9100/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C7YTIB6.png" group-title="HONDURAS",Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w1826193200_b1248000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrnQlQg.png" group-title="HONDURAS",SiTV
+http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FwcwAJ7.png" group-title="HONDURAS",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHngf3c.png" group-title="HONDURAS",TeleProgreso
+http://181.189.225.36:9100/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS",TEN Canal 10
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV
+http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV Int.
+http://api.new.livestream.com/accounts/27228685/events/8710503/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-1)
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-2)
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-3)
+http://181.198.153.175:5001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/if6yIsv.png" group-title="ECUADOR",Canal Uno
+http://181.198.153.175:5001/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7CKywGU.png" group-title="ECUADOR",Canela TV
+http://inliveserver.com:1935/8074/8074/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOz8p3p.png" group-title="ECUADOR",CNT
+http://181.198.153.175:5001/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frGquQc.png" group-title="ECUADOR",Hechos TV
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cwaY0HP.png" group-title="ECUADOR",Oromar TV
+http://181.198.153.175:5001/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR",RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avUtmDH.png" group-title="ECUADOR",TC TV
+http://181.198.153.175:5001/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rs6CmZf.png" group-title="ECUADOR",Telecuenca
+http://api.new.livestream.com/accounts/280758/events/8705297/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2icSc6x.png" group-title="ECUADOR",TV Manabita
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-ViW8yN7Lbhw/WQga_AXP1bI/AAAAAAAACbo/s4c8pm9trnQIMqPF4X0p1V_NF3YU1CkoACLcB/s640/TVC1.png" group-title="ECUADOR",TVC
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-1)
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-2)
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
