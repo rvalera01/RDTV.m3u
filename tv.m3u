@@ -1,6 +1,5 @@
 
-
-#EXTM3U
+#EXTM3U RDTV :https://github.com/
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="RD",Teleantillas 
 https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8
@@ -261,11 +260,6 @@ http://184.173.181.2:1935/8020/8020/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="89" tvg-logo="https://1.bp.blogspot.com/-_c3Wai2yuIY/Xl-e-HIk2VI/AAAAAAAAr5w/-vzqG9PJsg0DPrpR299YXH3m2u2BsQRvgCLcBGAsYHQ/s200/Boreal%2BTelevision.jpg" group-title=".RD",Boreal (domreptv.com)
 https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w557576109.m3u8
-
-#EXTINF:-1 tvg-chno="90" tvg-logo="http://2.bp.blogspot.com/-uMNzpR4LofY/VqGtPypLbCI/AAAAAAAAWDo/1bVMJJz9DxU/s1600-r/tvluz.png" group-title=".RD",TVLuz
-https://usb1.ninacdn.com/ssh101/tvluzlive/tvluzlive/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
