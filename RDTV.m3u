@@ -1,5 +1,5 @@
 
-#EXTM3U RDTV DESDE REP.DOM PARA EL MUNDO??
+#EXTM3U RDTV@ DESDE QUIQUEYA PARA EL MUNDO??
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="RD",Teleantillas 
 https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8
@@ -263,24 +263,12 @@ https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w557576109.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPAÑA" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPAÑA" tvg-name="La 1",La 1 GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPAÑA" tvg-name="La 1",La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="La 2",La 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="La 2",La 2 GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="La 2",La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Cuatro",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Cuatro",Cuatro SD
-https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Telecinco",Telecinco HD
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Telecinco",Telecinco SD
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/03.m3u8
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="FDF",FDF HD
 https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Energy",Energy HD
@@ -289,11 +277,13 @@ https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Be Mad",Be Mad HD
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
-#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad SD
-https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Paramount Network",Paramount Network
 #EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
 https://paramount-live.flumotion.com/live/chunks.m3u8
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing HD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="TRECE",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="El Toro TV",El Toro TV
