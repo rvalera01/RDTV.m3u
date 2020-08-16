@@ -241,7 +241,7 @@ https://cdn2.hostlagarto.com:4445/canavision/canavisiontv/chunks.m3u8
 #EXTINF:0 tvg-chno="85" tvg-logo="https://2.bp.blogspot.com/-_meL7KqO3IA/Wr0zrd9-kJI/AAAAAAAAdHI/NTLkovpii18Soqad4KVlpQXCgG_WuicqACLcBGAs/s200/Telebendicion.png" group-title="RD",TeleBendicion 
 http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png" group-title=".RD",Teleimpacto
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png" group-title="RD",Teleimpacto
 http://190.122.96.188:8888/http/013
 
 #EXTINF:-1 tvg-chno="87" tvg-logo="https://2.bp.blogspot.com/-la6MeSVFxmk/XAXXrfNoYjI/AAAAAAAAhFk/r92B43J8ijwtrfWJeBHGB_w6PV0qzPPPACLcBGAs/s200/FuegoTV.png" group-title="RD",FuegoTV 
