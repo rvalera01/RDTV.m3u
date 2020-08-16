@@ -1,11 +1,9 @@
 
 
 #EXTM3U
-#EXTINF:0 tvg-chno="1" radio="true" tvg-logo="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/12733647_744764972327396_5896422524191673606_n.png?_nc_cat=105&_nc_sid=85a577&_nc_ohc=FP3-FZbrsOEAX_mL9B3&_nc_ht=scontent-lga3-1.xx&oh=338e7922567b27e45d1abbdaa0ce041d&oe=5E98713A" group-title=".RD”,
-http://ss1.domint.net:2126/ta2_str/teleantillas
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="RD",Teleantillas 
-http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w460875019.m3u8
+https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title=".RD",CERTV Canal 4 
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
@@ -22,7 +20,7 @@ https://cdn2.hostlagarto.com:4445/bellavision8/Bellavision8hd/chunks.m3u8
 #EXTINF:0 tvg-chno="9" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title=".RD",Color Visión
 https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1556269922.m3u8
 
-#EXTINF:0 tvg-chno="10" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title=".RD",CieloTV (domreptv.com)
+#EXTINF:0 tvg-chno="10" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title=".RD",CieloTV
 https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w1590943378_b850000_slen.m3u8
 
 #EXTINF:0 tvg-chno="11" tvg-logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png" group-title=".RD",Telesistema
