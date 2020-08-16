@@ -1,8 +1,10 @@
 
-#EXTM3U RDTV@ DESDE QUIQUEYA PARA EL MUNDO??
+#EXTM3U RDTV@ DESDE QUIQUEYA PARA EL MUNDO?
 
 #EXTINF:0 tvg-chno="2" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="RD",Teleantillas 
 https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8
+#EXTINF:0 tvg-chno="11" tvg-logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png" group-title="RD",Telesistema
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="RD",CERTV Canal 4 
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
@@ -12,6 +14,11 @@ https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://1.bp.blogspot.com/-usJGZAFuGNc/WtVPVwFh5VI/AAAAAAAAeSQ/PQCO8fpsyL4dXNNrgdlv_67h-KLDDZvgwCPcBGAYYCw/s320/Antena7.png" group-title="RD",Antena7 
 http://67.205.141.212:25461/test/test1234/10
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="RD",Telemicro HD 
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="RD",Digital 15 
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/02/LOGO-Bellavision--341x400.png" group-title="RD",Bellavision
 https://cdn2.hostlagarto.com:4445/bellavision8/Bellavision8hd/chunks.m3u8
@@ -22,8 +29,6 @@ https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1556269922.m3u8
 #EXTINF:0 tvg-chno="10" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title="RD",CieloTV
 https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w1590943378_b850000_slen.m3u8
 
-#EXTINF:0 tvg-chno="11" tvg-logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png" group-title="RD",Telesistema
-http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
 
 #EXTINF:0 tvg-chno="37" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="RD",CDN37  
 https://usb.boz.com/ssh101/cdn37live/cdn37live/playlist.m3u8
@@ -44,8 +49,6 @@ https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 #EXTINF:0 tvg-chno="14" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title=".RD",AcentoTV 
 http://acentotv01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="RD",Digital 15 
-http://67.205.141.212:25461/test/test1234/3
 
 #EXTINF:0 tvg-chno="16" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="RD",Ready TV 
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
@@ -180,9 +183,6 @@ https://ss8.domint.net:3110/s7v_str/super7fm/chunklist_w1351896412.m3u8
 #EXTINF:0 tvg-chno="63" tvg-logo="https://3.bp.blogspot.com/-VEpnBW6ZCWY/Xa0m6c1S6sI/AAAAAAAAocY/9khpbMWS1bke-GvZaMyUngOgYu_aaD_tgCLcBGAsYHQ/s200/TeleCibao.png" group-title="RD",TeleCibao 
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="RD",Telemicro HD 
-https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-
 #EXTINF:0 tvg-chno="65" tvg-logo="https://3.bp.blogspot.com/-yOUuOfjWcNU/XaTdbRAGB1I/AAAAAAAAoX0/glU0qnb_-5wEp4ARNvbc3EUkhLHXLHMWgCLcBGAsYHQ/s200/canaldelsol.png" group-title="RD",Canal de Sol 
 http://canaldelsol01.streamprolive.com/hls/live.m3u8
 
@@ -291,17 +291,19 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="ESPAÑA" tvg-name="24h",24h
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/1ff1bb97a1e9b7027a1dc4aa3ef0fa65o.png" group-title="Colombia", Canal institucional tv
+https://play.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/023/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2KX2RM.png" group-title="COLOMBIA",Amordiscos TV
 https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51TCi1U.png" group-title="COLOMBIA",Cablenoticias
-http://181.198.153.175:5006/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRZN7Tn.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DqwBlp.png" group-title="COLOMBIA",Canal 13
-https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTxZUo6.png" group-title="COLOMBIA",Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
@@ -331,8 +333,7 @@ http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lL3TbW6.png" group-title="COLOMBIA",Multicanal TV
-https://bozztv.com/36bay2/gin/giniko_multicanaltv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-
+https://595b85410a151.streamlock.net:443/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="COLOMBIA",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
@@ -340,19 +341,16 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NCqfXuX.png" group-title="COLOMBIA",Ranchenato TV
-http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
+http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-1)
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-2)
-https://rcnhd.cdn.net.co/live02/rcnhd2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN 
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVBz2v6.png" group-title="COLOMBIA",Red Mas
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOc43O7.png" group-title="COLOMBIA",Señal Colombia
-http://181.198.153.175:5006/play/a05j/index.m3u8
+https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-300/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
@@ -392,3 +390,58 @@ https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="COLOMBIA",UAO Play +
 https://live-edge-sxb-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="COSTA RICA",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lC0uliW.png" group-title="COSTA RICA",Anexion TV 36
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/juukQO4.png" group-title="COSTA RICA",Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Da5V8bP.png" group-title="COSTA RICA",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="COSTA RICA",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1tKwiZM.png" group-title="COSTA RICA",Guapiles TV
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="COSTA RICA",Multimedios CR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5uWZXL.png" group-title="COSTA RICA",Oldies Hits
+http://inliveserver.com:1935/8012/8012/chunklist_w2106861196.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HKhUcmT.png" group-title="COSTA RICA",Repretel 2
+http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png" group-title="COSTA RICA",Repretel 4
+http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RqEqbjr.png" group-title="COSTA RICA",Repretel 6
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",Repretel 11
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png" group-title="COSTA RICA",Super Cinco
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hXbiTT5.png" group-title="COSTA RICA",Telered
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fp9ReNL.png" group-title="COSTA RICA",Telesur
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvdNakJ.png" group-title="COSTA RICA",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mmj1BUK.png" group-title="COSTA RICA",TicaVision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jBlueAT.png" group-title="COSTA RICA",TV Sur 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
