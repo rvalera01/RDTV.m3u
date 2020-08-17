@@ -546,7 +546,7 @@ http://www.channel.tevemi.com:1935/CadenaA/CadenaA/playlist.m3u8
 http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkPjLFJ.png" group-title="BOLIVIA",EBO TV
-http://v3.ciclano.io:1935/ebotv/ebotv/chunklist_w225573536.m3u8
+http://stmv1.questreaming.com/ebotv/ebotv/chunklist_w142205275.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AMNLa6.png" group-title="BOLIVIA",Mega TV
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1226312203.m3u8
