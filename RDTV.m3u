@@ -317,7 +317,7 @@ http://181.198.153.175:5007/play/a09s/index.m3u8
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/osBE0Et.png" group-title="COLOMBIA",CTV Barranquilla
-http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8
+http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/stQQgsQ.png" group-title="COLOMBIA",La Super TV
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
