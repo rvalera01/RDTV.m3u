@@ -33,10 +33,9 @@ http://51.89.152.28/hls/cdn.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://2.bp.blogspot.com/-6BYEEDw_wAw/WtJ1xA83FcI/AAAAAAAAeP0/aD9jbEI6PFEM1Jyhhe432iuvO5DCP-bEgCLcBGAs/s200/CDN%2BSportsMax.png" group-title="RD",CDN Sports MAX 
 http://67.205.141.212:25461/test/test1234/9
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://www.lunatv.do/cache/mod_bt_contentslider/b9480ac2594f71bb05f6185354c279aa-conductor-luna.jpg" group-title="RD" , Luna Tv Canal 55 
-http://ss1.domint.net:2140/luna_str/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/cache/mod_bt_contentslider/b9480ac2594f71bb05f6185354c279aa-conductor-luna.jpg" group-title="RD",Luna Tv Canal 55 
 
+https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8
 #EXTINF:0 tvg-chno="12" tvg-logo="https://2.bp.blogspot.com/-ODdqweEDT08/WpSgiynWxcI/AAAAAAAAcRc/YMGG81ZMAg8btoN_xz2-GkDR-EYYhy3NQCKgBGAs/s320/OTRA%2BBANDA%2BTV.jpg" group-title="RD",Otra Banda TV 
 https://5790d294af2dc.streamlock.net:443/8208/8208/playlist.m3u8
 
