@@ -230,7 +230,7 @@ https://5b38ce71f1f00.streamlock.net:443/8180/8180/playlist.m3u8
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title"ESPAÑA",Cuatro HD
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="ESPAÑA",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="ESPAÑA",Telecinco HD
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
@@ -494,7 +494,7 @@ https://youvideostreaming.club/hls/tvec1.m3u8
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="BOLIVIA",ATB 
 https://stmv1.srvif.com/atb/atb/chunklist_w859283665.m3u8
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/74VoJa5.png" group-title = "BOLIVIA", Bolivia TV
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/74VoJa5.png" group-title ="BOLIVIA",Bolivia TV
 https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w836415796_b478000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74VoJa5.png" group-title="BOLIVIA",Bolivia TV
