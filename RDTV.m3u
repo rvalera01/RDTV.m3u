@@ -565,3 +565,7 @@ https://ecuastream.net:1936/UCSGHQ/UCSGHQ/chunklist_w347751395.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="SPORTS",MLB Network 
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="SPORTS",ESPN 2 
+https://gma2.blab.email/espn2.m3u8
+
+
