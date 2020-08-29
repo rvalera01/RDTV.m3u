@@ -282,9 +282,8 @@ http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zb7kpqt.png" group-title="COLOMBIA",Canal Doce
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
-http://181.198.153.175:5005/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="http://magictv.live:25461/logo/uk/caracol.jpg" group-title="COLOMBIA", Caracol 
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IqwMbTz.png" group-title="COLOMBIA",CityTV
 http://181.198.153.175:5007/play/a09s/index.m3u8
