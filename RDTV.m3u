@@ -378,16 +378,16 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 http://inliveserver.com:1935/8012/8012/chunklist_w2106861196.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HKhUcmT.png" group-title="COSTA RICA",Repretel 2
-http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/playlist.m3u8
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal2/smil:live.smil/chunklist_b698000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png" group-title="COSTA RICA",Repretel 4
-http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RqEqbjr.png" group-title="COSTA RICA",Repretel 6
-http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="COSTA RICA",Repretel 11
-http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media//repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png" group-title="COSTA RICA",Super Cinco
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
@@ -482,13 +482,13 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/RTU_(canal_de_televisi%C3%B3n)#/media/Archivo:Logo_rtu.jpg" group-title="ECUADOR",Canal RTU 
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w530123987_b2108000_sleng.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/if6yIsv.png" group-title="ECUADOR",Canal Uno
 https://youvideostreaming.club/hls/tvec1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CKywGU.png" group-title="ECUADOR",Canela TV
-http://inliveserver.com:1935/8074/8074/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="BOLIVIA",ATB 
+ https://video1.getstreamhosting.com:1936/8296/8296/chunklist_w489307207.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="BOLIVIA",ATB 
 https://stmv1.srvif.com/atb/atb/chunklist_w859283665.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/74VoJa5.png" group-title ="BOLIVIA",Bolivia TV
 https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w836415796_b478000_sleng.m3u8
