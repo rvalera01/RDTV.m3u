@@ -406,7 +406,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1063134685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jBlueAT.png" group-title="COSTA RICA",TV Sur 14
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LjHgjX.png" group-title="NICARAGUA",Canal 12
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w978811706.m3u8
