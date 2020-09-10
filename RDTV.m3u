@@ -420,6 +420,8 @@ https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
 #EXTINF: -1 tvg-logo = "https://cutt.ly/EfTp1ew" group-title = "PANAMA", TVN 
 https://tvn-bc-live-delivery.akamaized.net/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/24/Telemetro_%282007%29.png" group-title="PANAMA", Telemetro 
+https://mdstrm.com/live-stream-playlist/5d9cbc550ffcfd4b6db21265.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 
