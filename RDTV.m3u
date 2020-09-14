@@ -29,7 +29,7 @@ http://51.89.152.28/hls/color.m3u8
 https://5e149b9159444.streamlock.net:443/cielotv/smil:cielotv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-chno="37" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="RD",CDN 37  
-http://51.89.152.28/hls/cdn.m3u8
+http://190.122.104.212:8888/http/018
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://2.bp.blogspot.com/-6BYEEDw_wAw/WtJ1xA83FcI/AAAAAAAAeP0/aD9jbEI6PFEM1Jyhhe432iuvO5DCP-bEgCLcBGAs/s200/CDN%2BSportsMax.png" group-title="RD",CDN Sports MAX 
 http://67.205.141.212:25461/test/test1234/9
 
