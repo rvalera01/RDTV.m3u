@@ -511,6 +511,8 @@ http://www.channel.tevemi.com:1935/CadenaA/CadenaA/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="BOLIVIA",Catolica TV
 http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3iD0Ob3" group-title="BOLIVIA",REC Online Bolivia
+http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkPjLFJ.png" group-title="BOLIVIA",EBO TV
 http://stmv1.questreaming.com/ebotv/ebotv/chunklist_w142205275.m3u8
@@ -520,12 +522,9 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1226312203.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wyAId2p.png" group-title="BOLIVIA",Palenque TV
 http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o4i8izz.png" group-title="BOLIVIA",Red PAT La Paz
-http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o4i8izz.png" group-title="BOLIVIA",Red PAT Santa Cruz
-http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w1544736247.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dWtxNYu.png" group-title="BOLIVIA",Red Uno
 http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
@@ -535,17 +534,11 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89906hn.png" group-title="BOLIVIA",Unitel
 http://api.new.livestream.com/accounts/8665913/events/4253600/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOz8p3p.png" group-title="ECUADOR",CNT
-http://181.198.153.175:5001/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frGquQc.png" group-title="ECUADOR",Hechos TV
-http://37.187.7.106/hechostv/live.m3u8
-
+https://video1.lhdserver.es/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cwaY0HP.png" group-title="ECUADOR",Oromar TV
-http://181.198.153.175:5001/play/a03r/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR",RTS
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+http://190.52.205.146/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avUtmDH.png" group-title="ECUADOR",TC TV
 https://5d4837686f698.streamlock.net/tctelevision/tctelevision/chunklist_w1169183823.m3u8
@@ -577,11 +570,13 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="canal33-elsalvador.png" group-title="EL SALVADOR",Canal 33 El Salvador
 http://5d32e2b9b7eed.streamlock.net:1935/tv33sv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="canal33-elsalvador.png" group-title="EL SALVADOR",Canal 11 tvtv
+#EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="https://bit.ly/2EayVZa" group-title="EL SALVADOR",Canal 11 tvtv
 https://5948cea281c58.streamlock.net:443/canal11/canal11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUuJm7u.png" group-title="GUATEMALA", Telecosta HD 
 https://5a0b422785262.streamlock.net:1936/telecosta/telecosta/chunklist_w983806289.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Fh1ZmY.png" group-title="GUATEMALA", Canal Antigua
+https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
 
 
