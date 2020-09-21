@@ -587,4 +587,7 @@ https://5a0b422785262.streamlock.net:1936/telecosta/telecosta/chunklist_w9838062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Fh1ZmY.png" group-title="GUATEMALA", Canal Antigua
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TUmxtZA.jpg" group-title="PARAGUAY",Telefuturo 
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w726866712.m3u8
+
 
