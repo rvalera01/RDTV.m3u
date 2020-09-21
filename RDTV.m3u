@@ -59,7 +59,7 @@ https://rctvhdstream.com/cinevision19hd/index.m3u8
 http://tutvonline.is-by.us:1935/live/nexxotv/chunklist_w1143278135.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://3.bp.blogspot.com/-IS50S2rpoQQ/Wxv_3RgadPI/AAAAAAAAepU/a8FNZGonxiccWT745zzz59skhlbZfis7ACLcBGAs/s320/Antena%2B21.jpg" group-title="RD",Antena21 
-http://51.89.152.28/hls/a21.m3u8
+http://51.81.106.157:8080/hls/a212.m3u8
 #EXTINF:0 tvg-chno="22" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="RD",Hilando Fino 
 https://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
 
