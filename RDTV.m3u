@@ -53,8 +53,7 @@ https://5790d294af2dc.streamlock.net/8204/8204/chunklist_w1456757572.m3u8
 https://cdn4.hostlagarto.com:8081/bajotechotv/playlist.m3u8
 
 #EXTINF:0 tvg-chno="19" tvg-logo="https://4.bp.blogspot.com/-OyGda7x4ma0/WskGwhu7INI/AAAAAAAAdTg/m3iGx8lteugAxvbEtiFnQm7gqZoyLeAJQCLcBGAs/s200/Cinevision.jpg" group-title="RD",Cinevision19
-https://rctvhdstream.com/cinevision19hd/index.m3u8
-
+https://rctvhdstream.com:8081/cinevision19hd/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://2.bp.blogspot.com/-Z-0ztkBMNKQ/Wr0r1Yw1kBI/AAAAAAAAdF8/ptLvtcx36wA_CK2FOXSRj43zUipiD6E1QCLcBGAs/s200/NEXXOtv.png" group-title="RD",Nexxo TV
 http://tutvonline.is-by.us:1935/live/nexxotv/chunklist_w1143278135.m3u8
 
