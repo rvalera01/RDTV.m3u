@@ -514,8 +514,7 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="BOLIVIA",Catolica TV
 http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3iD0Ob3" group-title="BOLIVIA",REC Online Bolivia
-http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
-
+http://america.tucableip.com/reconline/live/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkPjLFJ.png" group-title="BOLIVIA",EBO TV
 http://stmv1.questreaming.com/ebotv/ebotv/chunklist_w142205275.m3u8
 
