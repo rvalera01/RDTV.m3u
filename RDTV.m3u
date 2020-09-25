@@ -69,8 +69,8 @@ https://ss8.domint.net:3118/tf_str/futu/chunklist_w611055311.m3u8
 #EXTINF:0 tvg-chno="24" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="RD",HM 
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 
-#EXTINF:0 tvg-chno="25" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="RD",Canal 25
-https://ss3.domint.net/c25_str/canal25/chunklist_w1979556612.m3u8
+#EXTINF:0 tvg-chno="25" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="RD",Canal.25
+https://ss3.domint.net/c25_str/canal25/chunklist_w1961692111.m3u8
 
 #EXTINF:0 tvg-chno="26" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="RD",Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
