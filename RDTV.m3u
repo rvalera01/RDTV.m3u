@@ -504,7 +504,7 @@ https://youvideostreaming.club/hls/tvec1.m3u8
  https://video1.getstreamhosting.com:1936/8296/8296/chunklist_w489307207.m3u8
  
  #EXTINF:-1 tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="BOLIVIA",ATB 
-https://stmv1.srvif.com/atb/atb/chunklist_w859283665.m3u8
+http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/74VoJa5.png" group-title ="BOLIVIA",Bolivia TV
 https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w836415796_b478000_sleng.m3u8
 
