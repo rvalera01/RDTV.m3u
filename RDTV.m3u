@@ -62,7 +62,7 @@ http://51.81.106.157:8080/hls/a212.m3u8
 https://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
 
 #EXTINF:0 tvg-chno="6" tvg-logo="https://1.bp.blogspot.com/-_c2Z28j5sQA/XhB59HfiePI/AAAAAAAAAe4/ycyGPt-_KSARib1vmKMejN-MXD24sFQJwCK4BGAYYCw/s1600/musica-urbana.jpg" group-title="RD",UrbancrisTV 
-https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8
+https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://1.bp.blogspot.com/-x6z1tqYrgpM/WrudYi27YOI/AAAAAAAAdDg/SbztxSwknewPyaiJXj9GM-GccxZNcK5SwCPcBGAYYCw/s200/Telefuturo.png" group-title="RD",Telefuturo 23 
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w611055311.m3u8
