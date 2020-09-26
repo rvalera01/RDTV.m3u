@@ -360,6 +360,9 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lC0uliW.png" group-title="COSTA RICA",Anexion TV 36
 http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/30asv49" group-title="COSTA RICA",TVSUR 9 
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w600802901.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/juukQO4.png" group-title="COSTA RICA",Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 
