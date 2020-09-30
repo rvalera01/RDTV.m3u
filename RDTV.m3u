@@ -504,6 +504,9 @@ https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w530123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/if6yIsv.png" group-title="ECUADOR",Canal Uno
 https://youvideostreaming.club/hls/tvec1.m3u8
 
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-tF0KAuUf62Q/W0s1DWBBkiI/AAAAAAAAGX0/KcaWyGInBtUep1QHQt7aVtpElUYSH9j0gCLcBGAs/s1600/TVN%2Ben%2Bvivo%2Becuador.jpg" group-title="ECUADOR ", TVN ECUADOR  
+https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/chunklist_w1321973394_b2108000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CKywGU.png" group-title="ECUADOR",Canela TV
  https://video1.getstreamhosting.com:1936/8296/8296/chunklist_w489307207.m3u8
  
