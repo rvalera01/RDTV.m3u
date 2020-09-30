@@ -588,4 +588,6 @@ https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUmxtZA.jpg" group-title="PARAGUAY",Telefuturo 
 https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w726866712.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
+https://py-snt-snt-app-e86tf4-live-0-cdn-0.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8
 
