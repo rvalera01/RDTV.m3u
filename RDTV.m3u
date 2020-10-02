@@ -434,6 +434,14 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/24/Telemetro_%282007%29.png" group-title="PANAMA", Telemetro 
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
+
+#EXTINF: -1 tvg-ID = "PR: TELEMUNDO" tvg-name = "PR: TELEMUNDO" tvg-logo = "https://i.imgur.com/FWTfazT.png" group-title = "PUERTO RICO" , PR: TELEMUNDO
+http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-owner/925.ts
+
+#EXTINF: -1 tvg-ID = "PR: WAPA" tvg-name = "PR: WAPA" tvg-logo = "https://i.imgur.com/L2FncQc.png" group-title = "PUERTO RICO" , PR: WAPA
+http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-owner/922.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
 http://190.122.96.187:8888/http/002
 
