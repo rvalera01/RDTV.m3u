@@ -243,6 +243,12 @@ https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="ESPAÑA",Paramount Network
 #EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
 https://paramount-live.flumotion.com/live/chunks.m3u8
+
+#EXTINF: -1, tvg-logo = "https://i.imgur.com/rcETxFC.png "group-title="Infantiles", LOCOMOCIÓN
+http://toonxtv.net/hls/loco_ch/stream.m3u8 
+#EXTINF: -1, tvg-logo = "https://i.imgur.com/8l7X7s1.jpg "group-title="Infantiles", RED ACS
+http://inliveserver.com:1935/8468/8468/chunklist_w141463677.m3u8?laope.m3u 
+
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles",Boing HD
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles",Clan
