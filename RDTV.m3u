@@ -250,7 +250,7 @@ https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcETxFC.png" group-title="Infantiles",LOCOMOCIÓN
 http://toonxtv.net/hls/loco_ch/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cachipumtv/picture?width=200&height=200" group-title="Infantiles", Cachipuntv
-https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8
+https://tls.cdnz.cl/cachipuntv/live/media_w1246863038.m3u8
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles",Boing HD
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
