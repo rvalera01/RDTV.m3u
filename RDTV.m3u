@@ -450,6 +450,8 @@ http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-ow
 #EXTINF: -1 tvg-ID = "PR: WAPA" tvg-name = "PR: WAPA" tvg-logo = "https://i.imgur.com/L2FncQc.png" group-title = "PUERTO RICO" , PR: WAPA
 http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-owner/922.ts
 
+#EXTINF: -1 tvg-logo = "http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" group-title = "PUERTO RICO", TELEMUNDO 51 HD
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_600_av-p.m3u8?JoCaRoIPTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
 http://190.122.96.187:8888/http/002
