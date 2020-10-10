@@ -502,6 +502,9 @@ http://190.11.224.14:8134/liveevent.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHngf3c.png" group-title="HONDURAS",TeleProgreso
 http://181.189.225.36:9100/play/a00e/index.m3u8
 
+#EXTINF:-1  tvg-logo="http://www.honduras504.com/img/tv/CTV.jpg" group-title="HONDURAS",CTV
+https://amixtv.com:8081/ctv20/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS",TEN Canal 10
 http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/playlist.m3u8
 
