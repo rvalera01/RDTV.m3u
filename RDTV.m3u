@@ -657,3 +657,6 @@ https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.diario26.com/images/telemax_poster.png" group-title="ARGENTINA",Telemax 
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="ARGENTINA",CANAL 9
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
