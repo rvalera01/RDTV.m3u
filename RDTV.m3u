@@ -645,9 +645,9 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/marti.png" group-title="CUBA",TV MARTI  
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-
-#EXTINF:0 group-title="ARGENTINA" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica  
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+  
+#EXTINF:-1  tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK" group-title="ARGENTINA",TV PUBLICA 
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
 
 
 #EXTINF:0 group-title="ARGENTINA" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD 
