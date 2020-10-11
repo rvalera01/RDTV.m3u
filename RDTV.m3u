@@ -444,13 +444,13 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
 
-#EXTINF: -1 tvg-ID = "PR: TELEMUNDO" tvg-name = "PR: TELEMUNDO" tvg-logo = "https://i.imgur.com/FWTfazT.png" group-title = "PUERTO RICO" , PR: TELEMUNDO
+#EXTINF: -1 tvg-ID = "PR: TELEMUNDO" tvg-name = "PR: TELEMUNDO" tvg-logo = "https://i.imgur.com/FWTfazT.png" group-title ="PUERTO RICO",TELEMUNDO
 http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-owner/925.ts
 
-#EXTINF: -1 tvg-ID = "PR: WAPA" tvg-name = "PR: WAPA" tvg-logo = "https://i.imgur.com/L2FncQc.png" group-title = "PUERTO RICO" , PR: WAPA
+#EXTINF: -1 tvg-ID = "PR: WAPA" tvg-name = "PR: WAPA" tvg-logo = "https://i.imgur.com/L2FncQc.png" group-title ="PUERTO RICO",WAPA TV
 http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-owner/922.ts
 
-#EXTINF: -1 tvg-logo = "http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" group-title = "PUERTO RICO", TELEMUNDO 51 HD
+#EXTINF: -1 tvg-logo = "http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg"group-title ="PUERTO RICO",TELEMUNDO 51 HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_600_av-p.m3u8?JoCaRoIPTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
