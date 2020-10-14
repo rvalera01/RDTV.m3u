@@ -661,6 +661,6 @@ http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://es.m.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Argentina)#/media/Archivo%3AAm%C3%A9rica_TV_(Nuevo_logo_Junio_2020).png" group-title="ARGENTINA",AMERICA TV
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/724febba-7209-4480-8a5f-94f291aa7ddd:BRU/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
