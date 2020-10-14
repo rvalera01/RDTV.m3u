@@ -15,7 +15,7 @@ https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://1.bp.blogspot.com/-usJGZAFuGNc/WtVPVwFh5VI/AAAAAAAAeSQ/PQCO8fpsyL4dXNNrgdlv_67h-KLDDZvgwCPcBGAYYCw/s320/Antena7.png" group-title="RD",Antena7 
 http://51.81.106.147:8084/hls/alatina.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="RD",Telemicro HD 
-https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+http://51.81.106.147:8084/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="RD",Digital 15 
 http://51.81.106.147:8084/hls/d15.m3u8
