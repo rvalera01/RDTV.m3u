@@ -452,6 +452,13 @@ http://144.91.104.95:25461/live/prfta-app-chocoiptv-owner/prfta-app-chocoiptv-ow
 #EXTINF: -1 tvg-logo = "http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg"group-title ="PUERTO RICO",TELEMUNDO 51 HD
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxXGZJ7.png" group-title="PUERTO RICO",Mega TV 
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/playlist.m3u8?uhd=4&rebase=on 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDCc36l.png" group-title="PUERTO RICO",WIPR TV
+http://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
 http://190.122.96.187:8888/http/002
 
@@ -665,5 +672,14 @@ http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://es.m.wikipedia.org/wiki/América_Televisión_(Argentina)#/media/Archivo%3AAmérica_TV_(Nuevo_logo_Junio_2020).png" group-title="ARGENTINA",AMERICA TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUdPsMZ.png" group-title="PERU",IPe 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="PERU",Panamericana TV 
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0THQOZn.png" group-title="PERU",TVPeru Noticias 
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+
 
 
