@@ -646,7 +646,8 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/marti.png" group-title="CUBA",TV MARTI  
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3otbSM.png" group-title="ARGENTINA",5RTV Santa Fe 
+ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1  tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK" group-title="ARGENTINA",TV PUBLICA 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
 
