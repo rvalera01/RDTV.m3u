@@ -682,9 +682,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="PERU",Panamericana TV 
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0THQOZn.png" group-title="PERU",TVPeru Noticias 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0THQOZn.png" group-title="PERU",TV Peru Noticias 
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF: -1  tvg-logo ="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title = "PERU", BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/oWya6SB.png" group-title = "PERU", Central TV   
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
