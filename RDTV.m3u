@@ -250,7 +250,7 @@ https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
 http://toonxtv.net/hls/loco_ch/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cachipumtv/picture?width=200&height=200" group-title="Infantiles", Cachipuntv
 https://tls.cdnz.cl/cachipuntv/live/media_w1246863038.m3u8
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Los_Simpson#/media/Archivo%3ALogo_The_Simpsons.svg" group-title="Infantiles",LOS SIMPSON 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/mpng/xhmmih_2219-x-1138-4-los-simpson-logo-png/" group-title="Infantiles",LOS SIMPSON 
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w1273368773.m3u8 
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles",Boing HD
