@@ -246,6 +246,8 @@ https://paramount-live.flumotion.com/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8l7X7s1.jpg" group-title="Infantiles",ACS
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/El_Chavo_poster.jpg" group-title="Infantiles",EL CHAVO 24H
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8?WebM3UCL 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcETxFC.png" group-title="Infantiles",LOCOMOCIÓN
 http://toonxtv.net/hls/loco_ch/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cachipumtv/picture?width=200&height=200" group-title="Infantiles", Cachipuntv
