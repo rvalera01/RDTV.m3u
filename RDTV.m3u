@@ -632,7 +632,7 @@ https://edge4-sl.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
 https://py-snt-snt-app-e86tf4-live-0-cdn-0.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.app.goo.gl/XkCKqgdtsaynth4r8" group-title="PARAGUAY",CANAL 13
+#EXTINF:-1  tvg-logo="https://images.app.goo.gl/XkCKqgdtshttps://es.m.wikipedia.org/wiki/Trece_(canal_de_televisi%C3%B3n_paraguayo)#/media/Archivo%3ALogotrececanal.png" group-title="PARAGUAY",CANAL 13
 https://stream.rpc.com.py/live/trece_mid.m3u8
 #EXTINF:-1  tvg-logo="http://193.70.86.92/chlogo/logo/tv/uu/unicanal_py.png" group-title="PARAGUAY", UNICANAL 
 http://45.55.127.106/live/unicanal_src.m3u8 
