@@ -247,7 +247,8 @@ https://paramount-live.flumotion.com/live/chunks.m3u8
 https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" group-title="ESPAÑA",Neox 
 https://livestartover.atresmedia.com/geoneox/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.png"group-title = "ESPAÑA",MEGA 
+https://livestartover-i.akamaized.net/geomega/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8l7X7s1.jpg" group-title="Infantiles",ACS
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
 
