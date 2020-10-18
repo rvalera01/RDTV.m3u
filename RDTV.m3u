@@ -243,6 +243,8 @@ https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
 #EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
 https://paramount-live.flumotion.com/live/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png"group-title = "ESPAÑA",Nova 
+https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/320px-Neox.svg.png" group-title="ESPAÑA",Neox 
 https://livestartover.atresmedia.com/geoneox/master.m3u8
 
