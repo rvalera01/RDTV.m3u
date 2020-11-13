@@ -25,7 +25,7 @@ https://cdn4.hostlagarto.com:8081/Bellavision8hd/index.m3u8
 #EXTINF:0 tvg-chno="9" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="RD",Color Visión
 http://51.81.106.147:8084/hls/color.m3u8
 #EXTINF:0 tvg-chno="10" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title="CRISTIANO",CieloTV
-https://5e149b9159444.streamlock.net:443/cielotv/smil:cielotv.smil/playlist.m3u8
+https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w1724926806_b1300000_slen.m3u8
 
 #EXTINF:0 tvg-chno="37" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="RD",CDN 37  
 http://51.81.106.147:8084/hls/cdn.m3u8
