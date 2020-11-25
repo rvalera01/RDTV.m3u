@@ -245,9 +245,8 @@ https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="ESPAÑA",Be Mad HD
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
-#EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="ESPAÑA",Paramount Network
-#EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
-https://paramount-live.flumotion.com/live/chunks.m3u8
+#EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200"group-title="ESPAÑA",Paramount Network
+http://hls.mejor.tv/p/ZheK2lgqa6Q8nC587HhlTA,1606382198/streaming/paramount/324/gvm2w/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/320px-Nova.svg.png"group-title = "ESPAÑA",Nova 
 https://livestartover.atresmedia.com/geonova/master.m3u8
