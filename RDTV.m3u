@@ -659,6 +659,9 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/320px-MEGA.svg.pn"group-title = "MÉXICO",Azteca 
 http://bluespace.tk:8080/live/alexistv/2314/7.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/a_20190929/A%2B.png"group-title="MÉXICO", A+ 7.2
+http://live-aztecanoreste.kystream.com/h9ydbwnjcoe//p7UAKSv6AZ_hi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/milenio.png" group-title="MÉXICO", Milenio 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
