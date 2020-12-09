@@ -326,8 +326,6 @@ https://5c21f7ec1999d.streamlock.net/8110/8110/chunklist_w589630183.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="COLOMBIA",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EendU9p.png" group-title="COLOMBIA",Ntv Canal
-https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NCqfXuX.png" group-title="COLOMBIA",Ranchenato TV
 http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/playlist.m3u8
