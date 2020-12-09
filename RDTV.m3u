@@ -267,7 +267,7 @@ https://tls.cdnz.cl/cachipuntv/live/media_w1246863038.m3u8
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w1273368773.m3u8 
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles",Boing HD
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+http://hls.mejor.tv/p/VZ5xvmLZUBAICEsQm3SWTg,1607591824/streaming/disney/324/gvm2w/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="ESPAÑA",TRECE
