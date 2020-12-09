@@ -328,7 +328,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NCqfXuX.png" group-title="COLOMBIA",Ranchenato TV
-http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/playlist.m3u8
+https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN 
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
