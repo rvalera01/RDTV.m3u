@@ -49,7 +49,7 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 https://5790d294af2dc.streamlock.net/8204/8204/chunklist_w1456757572.m3u8
 
 #EXTINF:0 tvg-chno="18" tvg-logo="https://4.bp.blogspot.com/-7IMCZGoTSFM/XbymaiOOjxI/AAAAAAAAonE/HftEKECv_yU01ejpT91WRM6BnUatbAHbACLcBGAsYHQ/s200/BajoTecho%252C%2Bcanal26.png" group-title="RD",Bajo Techo 
-https://cdn4.hostlagarto.com:8081/bajotechotv/index.m3u8
+https://cdn4.hostlagarto.com/static/bajotechotv/playlist.m3u8
 
 #EXTINF:0 tvg-chno="19" tvg-logo="https://4.bp.blogspot.com/-OyGda7x4ma0/WskGwhu7INI/AAAAAAAAdTg/m3iGx8lteugAxvbEtiFnQm7gqZoyLeAJQCLcBGAs/s200/Cinevision.jpg" group-title="RD",Cinevision19
 https://rctvhdstream.com:8081/cinevision19hd/index.m3u8
