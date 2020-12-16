@@ -24,7 +24,7 @@ http://51.81.106.147:8084/hls/d15.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/02/LOGO-Bellavision--341x400.png" group-title="RD",Bellavision
 https://cdn4.hostlagarto.com:8081/Bellavision8hd/index.m3u8
 #EXTINF:0 tvg-chno="9" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="RD",Color Visión
-http://51.89.152.28:8084/hls/color.m3u8
+http://51.81.106.147:8084/hls/color.m3u8
 #EXTINF:0 tvg-chno="10" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title="CRISTIANO",CieloTV
 https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w1724926806_b1300000_slen.m3u8
 
