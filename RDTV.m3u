@@ -13,7 +13,8 @@ http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://1.bp.blogspot.com/-usJGZAFuGNc/WtVPVwFh5VI/AAAAAAAAeSQ/PQCO8fpsyL4dXNNrgdlv_67h-KLDDZvgwCPcBGAYYCw/s320/Antena7.png" group-title="RD",Antena7 
-http://51.81.106.147:8084/hls/alatina.m3u8
+http://51.89.152.28:8084/hls/alatina.m3u8
+
 #EXTINF:-1 tvg-chno="64" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="RD",Telemicro HD 
 http://51.81.106.147:8084/hls/tmicro.m3u8
 
@@ -23,15 +24,15 @@ http://51.81.106.147:8084/hls/d15.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/02/LOGO-Bellavision--341x400.png" group-title="RD",Bellavision
 https://cdn4.hostlagarto.com:8081/Bellavision8hd/index.m3u8
 #EXTINF:0 tvg-chno="9" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="RD",Color Visión
-http://51.81.106.147:8084/hls/color.m3u8
+http://51.89.152.28:8084/hls/color.m3u8
 #EXTINF:0 tvg-chno="10" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title="CRISTIANO",CieloTV
 https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w1724926806_b1300000_slen.m3u8
 
 #EXTINF:0 tvg-chno="37" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="RD",CDN 37  
-http://51.81.106.147:8084/hls/cdn.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-logo="https://2.bp.blogspot.com/-6BYEEDw_wAw/WtJ1xA83FcI/AAAAAAAAeP0/aD9jbEI6PFEM1Jyhhe432iuvO5DCP-bEgCLcBGAs/s200/CDN%2BSportsMax.png" group-title="RD",CDN Sports MAX 
-http://51.81.106.147:8084/hls/cdnsm.m3u8
+http://51.89.152.28:8084/hls/cdn.m3u8
 
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://2.bp.blogspot.com/-6BYEEDw_wAw/WtJ1xA83FcI/AAAAAAAAeP0/aD9jbEI6PFEM1Jyhhe432iuvO5DCP-bEgCLcBGAs/s200/CDN%2BSportsMax.png" group-title="RD",CDN Sports MAX 
+http://51.89.152.28:8084/hls/cdnsm.m3u8
 #EXTINF:-1 tvg-logo="http://www.lunatv.do/cache/mod_bt_contentslider/b9480ac2594f71bb05f6185354c279aa-conductor-luna.jpg" group-title="RD",Luna Tv 53
 https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8
 #EXTINF:0 tvg-chno="12" tvg-logo="https://2.bp.blogspot.com/-ODdqweEDT08/WpSgiynWxcI/AAAAAAAAcRc/YMGG81ZMAg8btoN_xz2-GkDR-EYYhy3NQCKgBGAs/s320/OTRA%2BBANDA%2BTV.jpg" group-title="RD",Otra Banda TV 
