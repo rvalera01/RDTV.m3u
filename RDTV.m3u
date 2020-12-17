@@ -4,7 +4,7 @@
 #EXTINF:0 tvg-chno="2" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="RD",Teleantillas 
 https://ss4.domint.net:3040/ta2_str/teleantillas/playlist.m3u8
 #EXTINF:0 tvg-chno="11" tvg-logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png" group-title="RD",Telesistema
-http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+http://51.89.152.28:8084/hls/tsistemas.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="RD",CERTV Canal 4 
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
