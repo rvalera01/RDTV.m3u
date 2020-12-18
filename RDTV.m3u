@@ -263,7 +263,7 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8?WebM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcETxFC.png" group-title="Infantiles",LOCOMOCIÓN
 http://toonxtv.net/hls/loco_ch/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cachipumtv/picture?width=200&height=200" group-title="Infantiles", Cachipuntv
-https://tls.cdnz.cl/cachipuntv/live/media_w1246863038.m3u8
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w632848037.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9amrzQ.jpg" group-title="Infantiles",LOS SIMPSON 
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w1273368773.m3u8 
 
