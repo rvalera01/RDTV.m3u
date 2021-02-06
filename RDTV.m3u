@@ -19,7 +19,7 @@ http://51.89.152.28:8084/hls/alatina.m3u8
 http://51.81.106.147:8084/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="RD",Digital 15 
-http://51.81.106.147:8084/hls/d15.m3u8
+https://player-api.new.livestream.com/accounts/28126860/events/8825282/broadcasts/217198106.secure.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/02/LOGO-Bellavision--341x400.png" group-title="RD",Bellavision
 https://cdn4.hostlagarto.com/static/Bellavision8hd/playlist.m3u8
