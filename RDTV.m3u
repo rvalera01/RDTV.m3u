@@ -152,7 +152,7 @@ http://siglo21.dnsalias.com:8080/mylive/telecontacto57/index.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8
 
 #EXTINF:0 tvg-chno="59" tvg-logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/s1600/Punta-Cana-TV-Logo.png" group-title="RD",Punta Cana TV 
-https://www.hostokilive.com/8002/8002.m3u8
+https://www.hostokilive.com:19360/8002/8002.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://3.bp.blogspot.com/--cx_dZWbpI8/XaTeSOMDyFI/AAAAAAAAoYA/X_MkqK1vsPMdCs3t1qoyu_kf85kN6rYigCLcBGAsYHQ/s1600/tvo%2Bdominicana.png" group-title="RD",tvo La Romana 
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
