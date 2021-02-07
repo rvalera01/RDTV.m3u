@@ -34,7 +34,7 @@ http://51.89.152.28:8084/hls/cdnsm.m3u8
 #EXTINF:-1 tvg-logo="http://www.lunatv.do/cache/mod_bt_contentslider/b9480ac2594f71bb05f6185354c279aa-conductor-luna.jpg" group-title="RD",Luna Tv 53
 https://ss4.domint.net:3018/luna_str/lunatv/playlist.m3u8
 #EXTINF:0 tvg-chno="12" tvg-logo="https://2.bp.blogspot.com/-ODdqweEDT08/WpSgiynWxcI/AAAAAAAAcRc/YMGG81ZMAg8btoN_xz2-GkDR-EYYhy3NQCKgBGAs/s320/OTRA%2BBANDA%2BTV.jpg" group-title="RD",Otra Banda TV 
-https://cdn4.hostlagarto.com/static/otrabandatv/chunks.m3u8?nimblesessionid=3939535&DVR
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:0 tvg-chno="13" tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/telecentro-13.jpg" group-title="RD",Telecentro 13
 https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 
