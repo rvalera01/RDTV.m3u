@@ -58,7 +58,7 @@ https://cloudflare.streamgato.us/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://3.bp.blogspot.com/-IS50S2rpoQQ/Wxv_3RgadPI/AAAAAAAAepU/a8FNZGonxiccWT745zzz59skhlbZfis7ACLcBGAs/s320/Antena%2B21.jpg" group-title="RD",Antena21 
 http://51.89.152.28:8084/hls/a21.m3u8
 #EXTINF:0 tvg-chno="22" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="RD",Hilando Fino 
-https://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
+https://4k-server-mia.2cdn.eu/HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1079087093_b2628000.m3u8
 
 #EXTINF:0 tvg-chno="6" tvg-logo="https://1.bp.blogspot.com/-_c2Z28j5sQA/XhB59HfiePI/AAAAAAAAAe4/ycyGPt-_KSARib1vmKMejN-MXD24sFQJwCK4BGAYYCw/s1600/musica-urbana.jpg" group-title="RD",UrbancrisTV 
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
