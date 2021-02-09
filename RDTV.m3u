@@ -107,7 +107,7 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
 https://panel.livetvvideo.net:1936/8068/8068/chunklist_w1271156483.m3u8
 
 #EXTINF:0 tvg-chno="42" tvg-logo="https://4.bp.blogspot.com/-Ydoeseu7sw0/Wr16YgBvcqI/AAAAAAAAdKk/4BHSFm8KRNwrh9N_DuyPybfIsGkRJZW5wCLcBGAs/s200/RomanaTV.jpg" group-title="RD",RomanaTV 
-http://tv.romanatv42.com/hls/live.m3u8
+http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-chno="3" tvg-logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg" group-title="CRISTIANO",Misión ELTV 
 https://5790d294af2dc.streamlock.net/8286/8286/chunklist_w1142231178.m3u8
