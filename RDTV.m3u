@@ -38,8 +38,6 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:0 tvg-chno="13" tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/telecentro-13.jpg" group-title="RD",Telecentro 13
 https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 
-#EXTINF:0 tvg-chno="14" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="RD",AcentoTV 
-https://acentotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:0 tvg-chno="16" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="RD",Ready TV 
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
@@ -209,8 +207,6 @@ https://panel.livetvvideo.net:1936/8018/8018/playlist.m3u8
 #EXTINF:0 tvg-chno="83" tvg-logo="https://3.bp.blogspot.com/-dxFegqrXFoY/XZtMMmjr0bI/AAAAAAAAoTo/Xq_4fLLVDFoWDp04syQ_1zLss5pRDwDKACLcBGAsYHQ/s200/Telever%2BCanal%2B12.png" group-title="RD",Telever 
 http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://3.bp.blogspot.com/-tc2iZpkTiAM/Wsf6ritbEnI/AAAAAAAAdRM/4BhFz3ErjfAq1vJry37Ut_rhbq02gRWhwCLcBGAs/s1600/CanaTV.png" group-title="RD",CanaTV 
-https://cdn4.hostlagarto.com:8081/puntacanatv/index.m3u8
 #EXTINF:0 tvg-chno="85" tvg-logo="https://2.bp.blogspot.com/-_meL7KqO3IA/Wr0zrd9-kJI/AAAAAAAAdHI/NTLkovpii18Soqad4KVlpQXCgG_WuicqACLcBGAs/s200/Telebendicion.png" group-title="CRISTIANO",TeleBendicion 
 http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png" group-title="RD",Teleimpacto
