@@ -616,7 +616,7 @@ https://gma2.blab.email/espn2.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="canal33-elsalvador.png" group-title="EL SALVADOR",Canal 33 El Salvador
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w1747533882_b1428000_DVR_sleng.m3u8
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/chunklist_w981316533_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="https://bit.ly/2EayVZa" group-title="EL SALVADOR",Canal 11 tvtv
 https://5948cea281c58.streamlock.net:443/canal11/canal11/playlist.m3u8
