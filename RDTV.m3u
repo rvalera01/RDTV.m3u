@@ -108,7 +108,7 @@ https://cdn4.hostlagarto.com:8081/cotubanamatv/playlist.m3u8
 http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://3.bp.blogspot.com/-5STGsNVR2E4/XiS098qA6FI/AAAAAAAAAhE/EsDeNTp1L6kVMv7umqoxcNjdyZzKJWLYwCLcBGAsYHQ/s200/entelevision.jpg" group-title="RD",entelevision 
-https://panel.livetvvideo.net:1936/8068/8068/chunklist_w1271156483.m3u8
+https://cdn4.hostlagarto.com:8081/static/enntivisiontv/chunks.m3u8?qthaher
 
 #EXTINF:0 tvg-chno="42" tvg-logo="https://4.bp.blogspot.com/-Ydoeseu7sw0/Wr16YgBvcqI/AAAAAAAAdKk/4BHSFm8KRNwrh9N_DuyPybfIsGkRJZW5wCLcBGAs/s200/RomanaTV.jpg" group-title="RD",RomanaTV 
 http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
