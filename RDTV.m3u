@@ -7,7 +7,7 @@ https://ss3.domint.net:3150/ta2_str/teleantillas/playlist.m3u8
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w364461236.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="RD",CERTV Canal 4 
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/chunklist_w1564974715_b700000_slen.m3u8
  #EXTINF:-1,Acento TV
  #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
  #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/html5player.html https://acentotv01.streamprolive.com/hls/live.m3u8
@@ -170,7 +170,8 @@ https://ss8.domint.net:3110/s7v_str/super7fm/chunklist_w1351896412.m3u8
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 
 #EXTINF:0 tvg-chno="65" tvg-logo="https://3.bp.blogspot.com/-yOUuOfjWcNU/XaTdbRAGB1I/AAAAAAAAoX0/glU0qnb_-5wEp4ARNvbc3EUkhLHXLHMWgCLcBGAsYHQ/s200/canaldelsol.png" group-title="RD",Canal de Sol 
-http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://canaldelsol.com/canal-en-vivo/ https://canaldelsol01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:0 tvg-chno="66" tvg-logo="https://3.bp.blogspot.com/-DPMAe_JC48w/XdyHHSJnPtI/AAAAAAAApFw/TzBuP7gd_JYi9hLFqzJ44jO3YqQYueoYACLcBGAsYHQ/s1600/CascaraTV%2B-%2BNavidad.png" group-title="RD",CascaraTV 
 https://cdn.hostlagarto.com:4445/cascaratv/cascaratv.myStream/chunks.m3u8
