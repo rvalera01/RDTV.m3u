@@ -8,13 +8,7 @@ https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w364461236.m3u8
 
 #EXTINF:0 tvg-chno="4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png/revision/latest/scale-to-width-down/340?cb=20170520221635" group-title="RD",CERTV Canal 4 
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/chunklist_w1564974715_b700000_slen.m3u8
- #EXTINF:-1,Acento TV
- #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
- #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/html5player.html https://acentotv01.streamprolive.com/hls/live.m3u8
- EXTINF:-1,CDN 
- #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36 https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1614785763~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=93c8af732f9917aa30047c131f40bbb8e7498c50568b9b12cb0765e9d3360dd1 #EXTINF:-1,CDN Deportes 
- #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36 https://dcunilive24-lh.akamaihd.net/i/dclive_1@322095/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1614691449~acl=%2fi%2fdcliv
-
+ 
 #EXTINF:0 tvg-chno="5" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="RD",Telemicro 
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
@@ -42,7 +36,7 @@ https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w1709587732.m3u8
 #EXTINF:0 tvg-chno="12" tvg-logo="https://2.bp.blogspot.com/-ODdqweEDT08/WpSgiynWxcI/AAAAAAAAcRc/YMGG81ZMAg8btoN_xz2-GkDR-EYYhy3NQCKgBGAs/s320/OTRA%2BBANDA%2BTV.jpg" group-title="RD",Otra Banda TV 
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:0 tvg-chno="13" tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/telecentro-13.jpg" group-title="RD",Telecentro 13
-https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+https://api.new.livestream.com/accounts/28126860/events/9438854/live.m3u8
 
 
 #EXTINF:0 tvg-chno="16" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="RD",Ready TV 
